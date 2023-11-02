@@ -1,4 +1,4 @@
-# pet1
+# Vue.js - todo app
 
 ## Project setup
 ```
